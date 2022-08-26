@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![logo](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/Git-banner.png)
+
 <!--
 **afnanabdulvasay-234/afnanabdulvasay-234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
