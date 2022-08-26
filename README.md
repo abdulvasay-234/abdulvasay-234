@@ -1,10 +1,9 @@
-### Hi there 👋
-
-![logo](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/Git-banner.png)
-
 <h1 align="center">Hi there 👋 I am Abdul Vasay</h1>
 <h3 align="center">Love exploring new things</h3>
 
+![logo](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/Git-banner.png)
+
+## About:
 - 🔭 I’m currently working on **My Technical skills on Machine Learning models**
 
 - 🌱 I’m currently learning **Deep learning and Documentation**
