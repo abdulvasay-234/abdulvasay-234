@@ -4,7 +4,7 @@
 ![logo](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/Git-banner.png)
 
 ## About:
-- 🔭 I’m currently working on **Personality development**
+- 🔭 I’m currently working on **My Personality development**
 
 - 🌱 I’m currently learning **Deep learning and Documentation**
 
