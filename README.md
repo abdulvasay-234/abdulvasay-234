@@ -21,6 +21,7 @@
 
 ## Additional info:
 
-<p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=afnanabdulvasay-234&" alt="afnanabdulvasay-234" /></p>
+<!--- <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=afnanabdulvasay-234&" alt="afnanabdulvasay-234" /></p>
+--->
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=afnanabdulvasay-234&show_icons=true&locale=en&layout=compact" alt="afnanabdulvasay-234" /></p>
