@@ -4,11 +4,11 @@
 ![logo](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/Git-banner.png)
 
 ## About:
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Documentation**
 
-- 🌱 I’m currently learning **Deep learning and Documentation**
+- 🌱 I’m currently learning **Artificial neural network and Deep learning**
 
-- 💬 Talks about **Start-ups**
+- 💬 Talks about **Start-ups and Technology**
 
 ## Connect with me
 <p align="left">
