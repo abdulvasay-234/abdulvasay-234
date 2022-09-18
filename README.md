@@ -22,8 +22,14 @@
 
 ## Additional info:
 
+  [![abdul vasay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=afnanabdulvasay-234&theme=xcode)](https://github.com/afnanabdulvasay-234)
+
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=afnanabdulvasay-234&show_icons=true&locale=en&layout=compact" alt="afnanabdulvasay-234" /></p>
 
+<!--  [![abdul vasay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=afnanabdulvasay-234&theme=xcode)](https://github.com/afnanabdulvasay-234)
+
+-->
+  
 <!--- <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=afnanabdulvasay-234&" alt="afnanabdulvasay-234" /></p>
 --->
 
