@@ -24,10 +24,10 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=afnanabdulvasay-234&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-<p><img align="right" size=2rem src="https://github-readme-stats.vercel.app/api/top-langs?username=afnanabdulvasay-234&show_icons=true&locale=en&layout=compact" alt="afnanabdulvasay-234" />
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=afnanabdulvasay-234&show_icons=true&locale=en&layout=compact" alt="afnanabdulvasay-234" />
 
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanabdulvasay-234&theme=tokyonight">
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanabdulvasay-234&theme=tokyonight">
 
 </p>
-
+-->
