@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial neural network and Deep learning**
 
-- 💬 Talks about **Start-ups and Technology**
+- 💬 Talks about **Open-source and Technology**
 
 ## Connect with me
 <p align="left">
