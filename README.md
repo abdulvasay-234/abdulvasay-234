@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I am Abdul Vasay</h1>
+<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I am Abdul Vasay</h1>
 <h3 align="center">Love exploring new things</h3>
 
 ![logo](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/Git-banner.png)
@@ -23,13 +23,13 @@
 </p>
 
 ## Additional info:
-
+<p>
 <img src="https://activity-graph.herokuapp.com/graph?username=afnanabdulvasay-234&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+</p>
 
 <p>
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=afnanabdulvasay-234&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact" alt="afnanabdulvasay-234" />
-
-  
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanabdulvasay-234&theme=tokyonight">
-
 </p>
+  
+  
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanabdulvasay-234&theme=tokyonight">  -->
