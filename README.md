@@ -6,7 +6,7 @@
 ## About:
 - 🔭 I’m currently working on **Documentation**
 
-- 🌱 I’m currently learning **Business Writing, Tools for Data Science**
+- 🌱 I’m currently learning **Business Writing, Introduction to Data Engineer**
 
 - 💬 Talks about **Open-source and Technology**
 
