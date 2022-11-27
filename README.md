@@ -4,7 +4,7 @@
 ![logo](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/Git-banner.png)
 
 ## About:
-- 🔭 I’m currently working on **Python based project**
+- 🔭 I’m currently working on **Stock market prediction using ML**
 
 - 🌱 I’m currently learning **Database, AI for everyone**
 
