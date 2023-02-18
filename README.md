@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> I am Abdul vasay</h1>
+<h1 align="center">Hello 👋 I am Abdul vasay</h1>
 <h3 align="center">Love exploring new things</h3>
 
 ![logo](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/Git-banner.png)
