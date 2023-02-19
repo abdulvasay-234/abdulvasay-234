@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I am Abdul vasay</h1>
 <h3 align="center">Love exploring new things</h3>
 
-![Example profile on LinkFree](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/img/Github%20(1).png)
+![banner](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/img/Github%20(1).png)
 
 ## About:
 - 🔭 I’m currently working on **Stock market prediction using ML**
