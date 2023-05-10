@@ -30,11 +30,11 @@
 </p>
  -->
  
-<img src="https://github-readme-stats.vercel.app/api?username=afnanabdulvasay-234&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=abdulvasay-234&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact">
  
  
 <p>
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=afnanabdulvasay-234&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact" alt="afnanabdulvasay-234" />
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvasay-234&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact" alt="afnanabdulvasay-234" />
 </p>
   
   
