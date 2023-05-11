@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋 I am Abdul vasay</h1>
 <h3 align="center">Love exploring new things</h3>
 
-![banner](https://github.com/afnanabdulvasay-234/afnanabdulvasay-234/blob/main/img/Github%20(1).png)
+![banner](https://github.com/abdulvasay-234/abdulvasay-234/blob/main/img/Github%20(1).png)
 
 ## About:
 - 🔭 I’m currently working on **Stock market prediction using ML**
@@ -13,7 +13,7 @@
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/afnanabdulvasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afnanabdulvasay" height="30" width="40" /></a>
-<a href="https://instagram.com/afnanabdulvasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulvasay.234" height="30" width="40" /></a>
+<a href="https://instagram.com/afnanabdulvasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afnanabdulvasay" height="30" width="40" /></a>
 <a href="https://www.facebook.com/afnanabdulvasay1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulvasay.234" height="30" width="40" /></a>
 </p>
 <!--
