@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋 I am Abdul vasay</h1>
+<h1 align="center">Hello 👋 I am Abdul Vasay</h1>
 <h3 align="center">Love exploring new things</h3>
 
 ![banner](https://github.com/abdulvasay-234/abdulvasay-234/blob/main/img/Github%20(1).png)
