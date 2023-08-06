@@ -1,10 +1,15 @@
-<!-- <h1 align="center">Hello 👋 I am Abdul Vasay</h1> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Abdul+Vasay%2C+Welcome+to+my+Github+Account.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+Account.)](https://git.io/typing-svg)
 
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+</div>
+
+<h1 align="center">Hi 👋 I am Abdul Vasay</h1>
 
 <h3 align="center">Love exploring new things</h3>
 
+---
 ![banner](https://github.com/abdulvasay-234/abdulvasay-234/blob/main/img/Github%20(1).png)
 
 ## About:
