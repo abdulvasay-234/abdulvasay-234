@@ -29,13 +29,11 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=afnanabdulvasay-234&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </p>
  -->
+ <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvasay-234&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact" alt="afnanabdulvasay-234" />
  
 <img src="https://github-readme-stats.vercel.app/api?username=abdulvasay-234&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact">
- 
- 
-<p>
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvasay-234&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact" alt="afnanabdulvasay-234" />
+
+
 </p>
-  
-  
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanabdulvasay-234&theme=tokyonight">  -->
+
+[![Abdul vasay github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvasay-234&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
