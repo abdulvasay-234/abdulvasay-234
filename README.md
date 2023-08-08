@@ -15,7 +15,7 @@
 ## About:
 - 🔭 I’m currently working on **Stock market prediction using ML**
 
-- 🌱 I’m currently learning **Database, AI for everyone**
+- 🌱 I’m currently learning **Deep learning techniques**
 
 - 💬 Talks about **Open-source and Technology**
 
