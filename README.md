@@ -13,7 +13,7 @@
 ![banner](https://github.com/abdulvasay-234/abdulvasay-234/blob/main/img/Github%20(1).png)
 
 ## About:
-- 🔭 I’m currently working on **Stock market prediction using ML**
+- 🔭 I’m currently working on **Machine Learning Algorithm**
 
 - 🌱 I’m currently learning **Deep learning techniques**
 
