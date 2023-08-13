@@ -1,4 +1,4 @@
-
+<!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Welcome+to+my+Github+Account.)](https://git.io/typing-svg)
 
 <div id="header" align="center">
