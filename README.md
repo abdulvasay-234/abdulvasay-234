@@ -12,16 +12,16 @@
 ![banner](https://github.com/abdulvasay-234/abdulvasay-234/blob/main/img/Github%20(1).png)
 
 ## About:
-- 🔭 I’m currently working on **Machine Learning Algorithm**
+- 🔭 I’m currently working on **Gen AI**
 
-- 🌱 I’m currently learning **Deep learning techniques**
+- 🌱 I’m currently learning **Web 3 & Block Chain**
 
 - 💬 Talks about **Open-source and Technology**
 
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/afnanabdulvasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afnanabdulvasay" height="30" width="40" /></a>
-<a href="https://instagram.com/afnanabdulvasay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afnanabdulvasay" height="30" width="40" /></a>
+<a href="https://instagram.com/abdulvasay.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afnanabdulvasay" height="30" width="40" /></a>
 <a href="https://www.facebook.com/afnanabdulvasay1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulvasay.234" height="30" width="40" /></a>
 </p>
 
