@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Web 3 & Block Chain**
 
-- 💬 Talks about **Open-source and Technology**
+- 💬 Ask me about **Open-Source, Community, Tech, Content Creation**
 
 ## Connect with me
 <p align="left">
