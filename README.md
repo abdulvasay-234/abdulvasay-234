@@ -55,6 +55,4 @@ Alongside my technical work, I contribute to developer communities and open-sour
 
 ## Let's Connect
 
-I'm always open to **AI projects, open-source collaboration, developer communities, and interesting technical conversations.**
-
-**Portfolio** · **LinkedIn** · **X** · **Email**
+[Portfolio](https://bio.link/abdulvasay) · [LinkedIn](https://www.linkedin.com/in/afnanabdulvasay/) · [X](https://twitter.com/abdulvasay_dev) · [Email](mailto:afnanabdulvasay234@gmail.com)
